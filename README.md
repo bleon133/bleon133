@@ -34,8 +34,8 @@
 ---
 
 ### 📫 Connect With Me  
-🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-📩 [Email](mailto:your-email@example.com)  
+🌐 [LinkedIn](www.linkedin.com/in/brayan-steven-león-martinez-a7528416b)  
+📩 [Email](mailto:brot10102017@gmail.com)  
 🎮 [My Portfolio](https://bleon133.github.io/Portafolio/)  
 
 ---
