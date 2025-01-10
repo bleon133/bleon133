@@ -8,10 +8,10 @@
 🎮 Soon-to-be technologist in **Video Game Development and Interactive Environments**.  
 💡 Systems technician with solid, hands-on knowledge in technology.  
 🚀 Practical experience with technologies such as:  
-   - **Backend:** Spring Boot, Java, PHP, Python, Oracle SQL  
+   - **Backend:** Spring Boot, Java, PHP, Python
    - **Frontend:** JavaScript, Jquery, Bootstrap  
    - **Game Development & Tools:** Unity, C#, Matlab  
-   - **Databases:** MongoDB  
+   - **Databases:** MongoDB, Oracle DB  
 
 📈 Always seeking to improve and learn new tools for software development. My passion lies in merging creativity and technology to solve problems and create interactive experiences.  
 
