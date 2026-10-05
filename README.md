@@ -4,7 +4,7 @@
 ---
 
 ### 🌟 About Me  
-🔧 Fifth-semester **Systems Engineering** student.  
+🔧 Eighth-semester **Systems Engineering** student.  
 🎮 Soon-to-be technologist in **Video Game Development and Interactive Environments**.  
 💡 Systems technician with solid, hands-on knowledge in technology.  
 🚀 Practical experience with technologies such as:  
