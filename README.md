@@ -42,7 +42,7 @@
 
 ### 📫 Connect With Me  
 🌐 [LinkedIn](https://www.linkedin.com/in/brayan-steven-león-martinez-a7528416b)  
-📩 [Email](mailto:brot10102017@gmail.com)  
+📩 [Email](mailto:brayanstevenleonmartinez@gmail.com)  
 🎮 [My Portfolio](https://brayandeveloper.online/)  
 
 ---
