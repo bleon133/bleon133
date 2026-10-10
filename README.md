@@ -25,14 +25,6 @@ Este año también hice un cuatrimestre de movilidad en la Universidad Tecnológ
   <img src="./assets/stack.svg" alt="Stack: Java, Spring Boot, C#, .NET, PHP, Python, React, JavaScript, TypeScript, Bootstrap, jQuery, Tailwind, Kotlin Multiplatform, Android Studio, MongoDB, PostgreSQL, SQL Server, Oracle, Firebase, Unity, Docker, Git, AWS y Linux." width="100%">
 </p>
 
-- **Backend:** Java, Spring Boot, .NET (C#), ASP.NET Web API, PHP y Python
-- **APIs y seguridad:** REST, JWT, WebSocket y control de acceso por roles
-- **Frontend:** React, JavaScript, Bootstrap y jQuery
-- **Móvil:** Kotlin Multiplatform y Jetpack Compose
-- **Bases de datos:** MongoDB, PostgreSQL, SQL Server, Oracle y Firebase
-- **Videojuegos:** Unity y C#
-- **Infraestructura:** Docker, Git, CI/CD, AWS (cursos de AWS Academy) y redes con GNS3 y Cisco IOS
-
 ## Cosas que he construido
 
 **Meditraz.** Prototipo web para el seguimiento de medicamentos con código de barras y alertas de caducidad, hecho con Angular y ASP.NET Core. Lo presentamos como investigación en el encuentro de semilleros de la UNAB en 2022: [código](https://github.com/bleon133/Meditraz) y [artículo](https://repository.unab.edu.co/bitstream/20.500.12749/20899/3/2022_Articulo_Leon_Martinez_Brayan_Steven.pdf).
