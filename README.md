@@ -41,8 +41,6 @@ El código de la plataforma de vigilancia es de la empresa y no es público. Lo 
 
 Prácticas profesionales en 2027-1, en un rol de backend o full stack, para aportar en desarrollo web, bases de datos y diseño de soluciones, y seguir aprendiendo en proyectos reales. Puedo trabajar en remoto o mudarme de ciudad. Mi inglés es B2 (EF SET, 60/100).
 
-## Actividad
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bleon133/bleon133/output/github-snake-dark.svg">
